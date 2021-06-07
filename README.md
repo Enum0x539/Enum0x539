@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
 
-<h3 align="center">An enthusiastic Machine learning dev, A Full stack developer and Cyber Security practitioner from Israel</h3>
+<h3 align="center">An enthusiastic Machine learning dev, A Front-end developer and Cyber Security practitioner from Israel</h3>
 
 > Remember, Life's all about Ups and Downs, Wins and Losses. **Never be disappointed, Keep moving forward** :)
 
@@ -14,7 +14,7 @@
 ### Let's know about me more!
 
 Hey there! I am Yenon, A 17 y/o developer. Obsessed with Maths, Tech, and Science. Currently I'm Learning ASM, Machine learning 
-and Cyber Security! I'm interested in learning Full Stack web development, Rust language, and more. I love not only to 
+and Cyber Security! I'm interested in learning Front-end development, Rust language, and more. I love not only to 
 code, but also building, learning and exploring new things, crossing things off my bucket list, and several hobbies, and goals that I want to fulfil. 
 Trying to learn, build and share something new every day, and Becoming better every day.✌️
 
@@ -94,7 +94,7 @@ CPP                      █████████████░░░░░�
 C                        ███████░░░░░░░░░░░░░░░░░░   7%
 Python                   ████░░░░░░░░░░░░░░░░░░░░░   4% 
 Markdown                 █░░░░░░░░░░░░░░░░░░░░░░░░   1% 
-Other                    ███░░░░░░░░░░░░░░░░░░░░░    3% 
+Other                    ███░░░░░░░░░░░░░░░░░░░░░░    3% 
 
 🔥 Editors: 
 Visual Studio            ███████████████████████░░   95% 
