@@ -73,7 +73,7 @@ chatting with my friends! 😁
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
-**I'm to lazy to update it every time :(
+**I'm to lazy to update it every time :(**
 > 🏆 0 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
