@@ -15,8 +15,8 @@
 
 ### Let's know about me more!
 
-Hey there! I am Sunrit Jana, A 16 y/o developer. Obsessed with Maths, Tech, and Science. Currently I'm Learning Python, Machine learning, 
-Web development, C++ and Cyber Security! I'm interested in learning Full Stack web development, Rust language, and more. I love not only to 
+Hey there! I am Yenon, A 17 y/o developer. Obsessed with Maths, Tech, and Science. Currently I'm Learning ASM, Machine learning 
+and Cyber Security! I'm interested in learning Full Stack web development, Rust language, and more. I love not only to 
 code, but also building, learning and exploring new things, crossing things off my bucket list, and several hobbies, and goals that I want to fulfil. 
 Trying to learn, build and share something new every day, and Becoming better every day.✌️
 
@@ -24,100 +24,19 @@ I am also more passionate about building real-life projects, and I create such p
 and boost the development speed. I am really passionate and love to code, making interesting problems and innovative solutions, that can be 
 useful in certain domains, and also create boilerplates and more for speeding up process and Also several innovative softwares.
 
-Moreover, I'm a social maniac, active on discord and twitter. Probably Interacting with the dev community, or Building something interesting, or 
+Moreover, I'm a social maniac, active on discord. Probably Interacting with the dev community, or Building something interesting, or 
 chatting with my friends! 😁
-
-**And here is some code, that I would love to share with you! 😁**
-
-```python
-import socials
-import stuff
-
-
-class SunritJana:
-    def __init__(self) -> None:
-        # -- Personal section --
-        self.name = "Sunrit Jana"
-        self.birthday = "27-10-2006"
-
-        self.tagline = "A guy who loves to learn with dreams to achieve something awesome! 🌻"
-
-        # -- About section --
-        self.about = {
-            "loves_to": [
-                "💻 Code",
-                "🎸 Play guitar",
-                "🏫 Play with maths",
-                "🔭 Explore new things"
-            ],
-            "likes_to": [
-                "🏫 Teaching",
-                "🤝 Helping people",
-                "💻 Reviewing others' code",
-                "🚀 Learning!"
-            ]
-        }
-        self.loves_to_build = [stuff.COOL, stuff.INNOVATIVE, stuff.AWESOME]
-        self.most_active_at = [socials.DISCORD, socials.TWITTER, socials.GITHUB, socials.LINKEDIN]
-
-        # -- Tech stack section --
-        self.working_on = [stuff.code.MACHINE_LEARNING, stuff.code.WEB_DEVELOPMENT, stuff.security.ETHICAL_HACKING]
-
-        self.tech_stack = {
-            "code": ["Python", "C++", "Java", "JavaScript", "SQL"],
-            "code-branches": ["Machine Learning", "Automation", "CLI and GUI", "Full Stack development", "Networking"],
-            "frontend": {
-                "css": ["Bootstrap", "Bulma", "Tailwind"],
-                "js": ["React", "NextJS", "Gatsby", "VueJS"]
-            },
-            "backend": {
-                "python": ["Flask", "Django", "Sanic", "Fastify", "ExpressJS"]
-            },
-            "cloud": ["GCP", "AWS", "Azure"],
-            "databases": ["PostgreSQL", "MySQL", "Redis", "SQLite", "MongoDB", "Firebase", "Supabase"],
-            "DevSecOps": ["Docker", "CI / CD", "Linux System Administration", "Version Control System", "Virtualization"],
-            "Security": ["Ethical hacking", "Pentesting", "Cracking", "Networking"]
-        }
-        self.ask_me_about = ["C++", "Python", "Java", "Full Stack development", "DevSecOps", "Ethical hacking"]
-
-        # -- Social media section --
-        self.social_media = {
-            "email": "warriordefenderz@gmail.com",
-            "github": "https://github.com/Enum0x539",
-            "discord": "https://discord.com/users/825086897230839879"
-        }
-
-        # -- Wrapping up --
-        self.fun_fact = "I'm an anime addict who prefers tea over coffee!"
-
-    def __repr__(self) -> None:
-        return f"<Object SunritJana at 0x0A0001B2FCA77F70 working_on={self.working_on} active_at={self.most_active_at}> ask_about={self.ask_me_about}"
-
-    def __str__(self) -> None:
-        return self.name
-
-    def __call__() -> None:
-        print("Hey there 👋! Nice to see you here!")
-
-
-sunrit = SunritJana()
-sunrit()
-```
 
 ### 🎧 Spotify Playing
 
-[<img src="https://spotify-activity.warriordefenderz.vercel.app/api/spotify" alt="Sunrit Jana Spotify Playing" width="400" />](https://open.spotify.com/user/qy9jhr85so9g8pr6zz7aizc6x)
+[<img src="https://spotify-activity.warriordefenderz.vercel.app/api/spotify" alt="Yenon's Spotify Playing" width="400" />](https://open.spotify.com/user/qy9jhr85so9g8pr6zz7aicc6x)
 
 ### 🔗 Connect with me:
 
 <p align="center">
     
-[<img align="left" alt="Sunrit Jana" src="https://img.shields.io/badge/Website-02ccf7?style=for-the-badge&logo=https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg&logoColor=white" />][website]
-[<img align="left" alt="Sunrit Jana" src="https://img.shields.io/badge/Octo%20Profile-00FFFF?style=for-the-badge&logo=https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg&logoColor=white" />][octoprofile]
-[<img align="left" alt="Sunrit Jana | YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
-[<img align="left" alt="Sunrit Jana | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="Sunrit Jana | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Sunrit Jana | Blog" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />][blog]
+[<img align="left" alt="Yenon" src="https://img.shields.io/badge/Website-02ccf7?style=for-the-badge&logo=https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg&logoColor=white" />][website]
+[<img align="left" alt="Yenon" src="https://img.shields.io/badge/Octo%20Profile-00FFFF?style=for-the-badge&logo=https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg&logoColor=white" />][octoprofile]
 
 </p>
 
@@ -135,107 +54,11 @@ sunrit()
   <summary>⚙️ My workspace setup</summary>
 
   - **Laptop**: HP pavilion (Intel i5)
-  - **OS**: Ubuntu 20.04 / Arch Linux
-  - **Terminal**: ZSH with spaceship or powerlevel10k theme
-  - **Terminal-based editors**: Nano, NeoVim with ayu theme.
-  - **Browser**: Mozilla firefox and Microsoft Edge.
-  - **Code Editor**: VSCode, Jetbrains IDE, NeoVim.
+  - **OS**: Windows 10
+  - **Browser**: Mozilla firefox and Brave.
+  - **Code Editor**: VSCode, Jetbrains IDE, NeoVim, Visual Studio, Sublime Text.
   - **Music Player**: Spotify
   - **Note software**: Notion
-</details>
-
-<details>
-  <summary> 🛠 Tools I use to code with! </summary>
-  
-  - **UI / UX**
-
-    <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> 
-
-  - **Frontend**
-
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-    <img src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=https://simpleicons.org/icons/bulma.svg&logoColor=white" alt="bulma" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind">
-    <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="materialize"/>
-
-  - **Backend**
-
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" />
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" /> 
-
-  - **Programming Languages**
-
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" />
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" /> 
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=https://simpleicons.org/icons/arduino.svg&logoColor=white" alt="arduino" />
-    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" />
-
-  - **Databases**
-
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /> 
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=https://simpleicons.org/icons/firebase.svg&logoColor=white" alt="firebase" />
-
-  - **Cloud**
-
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
-    <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure" />
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp" /> 
-    <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
-
-  - **Frameworks**
-    - **Frontend**
-
-      <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby" />
-      <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-      <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
-
-    - **Backend**
-
-      <img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
-      <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
-      <img alt="FastAPI" src="https://img.shields.io/badge/fastapi%20-%2313988a.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjxzdmcKICAgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIgogICB4bWxuczpjYz0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbnMjIgogICB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgaWQ9InN2ZzgiCiAgIHZlcnNpb249IjEuMSIKICAgdmlld0JveD0iMCAwIDYuMzQ5OTk5OSA2LjM0OTk5OTkiCiAgIGhlaWdodD0iNi4zNDk5OTk5bW0iCiAgIHdpZHRoPSI2LjM0OTk5OTltbSI+CiAgPGRlZnMKICAgICBpZD0iZGVmczIiIC8+CiAgPG1ldGFkYXRhCiAgICAgaWQ9Im1ldGFkYXRhNSI+CiAgICA8cmRmOlJERj4KICAgICAgPGNjOldvcmsKICAgICAgICAgcmRmOmFib3V0PSIiPgogICAgICAgIDxkYzpmb3JtYXQ+aW1hZ2Uvc3ZnK3htbDwvZGM6Zm9ybWF0PgogICAgICAgIDxkYzp0eXBlCiAgICAgICAgICAgcmRmOnJlc291cmNlPSJodHRwOi8vcHVybC5vcmcvZGMvZGNtaXR5cGUvU3RpbGxJbWFnZSIgLz4KICAgICAgICA8ZGM6dGl0bGU+PC9kYzp0aXRsZT4KICAgICAgPC9jYzpXb3JrPgogICAgPC9yZGY6UkRGPgogIDwvbWV0YWRhdGE+CiAgPGcKICAgICB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODcuNTM5Mjg2LC04NC40MjYxOTEpIgogICAgIGlkPSJsYXllcjEiPgogICAgPHBhdGgKICAgICAgIGlkPSJwYXRoODE1IgogICAgICAgZD0ibSA4Ny41MzkyODYsODQuNDI2MTkxIGggNi4zNSB2IDYuMzUgaCAtNi4zNSB6IgogICAgICAgc3R5bGU9ImZpbGw6bm9uZTtzdHJva2Utd2lkdGg6MC4yNjQ1ODMzMiIgLz4KICAgIDxwYXRoCiAgICAgICBzdHlsZT0ic3Ryb2tlLXdpZHRoOjAuMjY0NTgzMzI7ZmlsbDojZmZmZmZmIgogICAgICAgaWQ9InBhdGg4MTciCiAgICAgICBkPSJtIDkwLjcxNDI4Niw4NC45NjA2NDkgYyAtMS40NTc4NTQsMCAtMi42NDA1NDIsMS4xODI2ODggLTIuNjQwNTQyLDIuNjQwNTQyIDAsMS40NTc4NTQgMS4xODI2ODgsMi42NDA1NDIgMi42NDA1NDIsMi42NDA1NDIgMS40NTc4NTQsMCAyLjY0MDU0MiwtMS4xODI2ODggMi42NDA1NDIsLTIuNjQwNTQyIDAsLTEuNDU3ODU0IC0xLjE4MjY4OCwtMi42NDA1NDIgLTIuNjQwNTQyLC0yLjY0MDU0MiB6IG0gLTAuMTM3NTgzLDQuNzU3MjA5IHYgLTEuNjU2MjkyIGggLTAuOTIwNzUgbCAxLjMyMjkxNiwtMi41NzcwNDIgdiAxLjY1NjI5MiBoIDAuODg2MzU0IHoiIC8+CiAgPC9nPgo8L3N2Zz4K"/>
-
-
-    - **AI / ML**
-
-      <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=https://simpleicons.org/icons/scikit-learn.svg&logoColor=white" alt="scikit-learn" />
-      <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
-      <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
-      <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
-      <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
-      <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> 
-
-  - **Operating Systems**
-
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" />
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" />
-    <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="linux-mint" />
-
-  - **Music platforms**
-
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="spotify" />
-    <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="youtube-music">
-
-  - **Blogs**
-
-    <img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
-
-  - **Others**
-
-    <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-    <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=https://simpleicons.org/icons/linux.svg&logoColor=white" alt="linux" /> 
-    <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-    <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=https://simpleicons.org/icons/grafana.svg&logoColor=white" alt="grafana" />
-    <img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
-
 </details>
 
 <details>
@@ -262,25 +85,17 @@ sunrit()
 
 **🐱 My Github Data** 
 
-> 🏆 1,471 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 58 Public Repositories 
+> 📜 4 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.14% 
-🌆 Daytime    151 commits    ██████████░░░░░░░░░░░░░░░   43.14% 
-🌃 Evening    117 commits    ████████░░░░░░░░░░░░░░░░░   33.43% 
-🌙 Night      29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.29%
-
-```
+  
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
@@ -295,28 +110,27 @@ Sunday       30 commits     ██░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
-
 ```text
 ⌚︎ Time Zone: GMT+3
 
 💬 Programming Languages: 
-C#                       300 hrs 55 mins     ████████████████████████░   90.59% 
-CPP                      120 hrs 15 mins     █████████████░░░░░░░░░░░░   67.59% 
-C                        54 hrs 12 mins      █████░░░░░░░░░░░░░░░░░░░░   67.59%
-Python                   18 hrs 26 mins      ███░░░░░░░░░░░░░░░░░░░░░░   67.59% 
-Markdown                 1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.49% 
-Other                    34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13% 
+C#                       ████████████████████████░   60% 
+CPP                      █████████████░░░░░░░░░░░░   25% 
+C                        ███████░░░░░░░░░░░░░░░░░░   7%
+Python                   ████░░░░░░░░░░░░░░░░░░░░░   4% 
+Markdown                 █░░░░░░░░░░░░░░░░░░░░░░░░   1% 
+Other                    ███░░░░░░░░░░░░░░░░░░░░░    3% 
 
 🔥 Editors: 
-PyCharm                  24 hrs 3 mins       ██████████████████████░░░   88.2% 
-VS Code                  3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.8%
+Visual Studio            ███████████████████████░░   95% 
+PyCharm                  ██░░░░░░░░░░░░░░░░░░░░░░░   2% 
+VS Code                  ███░░░░░░░░░░░░░░░░░░░░░░   3%
 
 💻 Operating System: 
-Windows                  9000 hrs 16 mins    █████████████████████████   100.0%
+Windows                  █████████████████████████   100.0%
 ```
 
-**I Mostly Code in c#** 
+**I Mostly Code in C#** 
 
 
 **Timeline**
