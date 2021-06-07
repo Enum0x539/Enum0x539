@@ -45,7 +45,7 @@ chatting with my friends! 😁
   - **Laptop**: HP pavilion (Intel i5)
   - **OS**: Windows 10
   - **Browser**: Mozilla firefox and Brave.
-  - **Code Editor**: VSCode, Jetbrains IDE, NeoVim, Visual Studio, Sublime Text.
+  - **Code Editor**: VSCode, Jetbrains IDE, Visual Studio, Sublime Text.
   - **Music Player**: Spotify
   - **Note software**: Notion
 </details>
@@ -73,7 +73,7 @@ chatting with my friends! 😁
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
-
+**I'm to lazy to update it every time :(
 > 🏆 0 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
@@ -84,23 +84,10 @@ chatting with my friends! 😁
  > 
 > 🔑 0 Private Repositories  
  > 
-  
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.86% 
-Tuesday      40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
-Wednesday    81 commits     █████░░░░░░░░░░░░░░░░░░░░   23.14% 
-Thursday     58 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.57% 
-Friday       56 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
-Saturday     33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.43% 
-Sunday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.57%
-
-```
 
 
 ```text
-⌚︎ Time Zone: GMT+3
+⌚︎ Time Zone: Israel, Jerusalem (GMT+3)
 
 💬 Programming Languages: 
 C#                       ████████████████████████░   60% 
@@ -139,7 +126,7 @@ Windows                  ██████████████████�
 <details>
   <summary>Please only read this, if you're actually interested in life lessons and inspirations.</summary>
 
-  <p align="left"> <img src="https://raw.githubusercontent.com/janaSunrise/janaSunrise/master/images/thought.png" alt="janasunrise" /> </p>
+  <p align="left"> <img src="https://cdn.discordapp.com/attachments/825091638782459912/851469757936566313/thought.png" alt="enum0x539" /> </p>
 
 </details>
 
