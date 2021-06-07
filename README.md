@@ -11,8 +11,6 @@
 
 <img src= "https://octodex.github.com/images/waldocat.png" width="160px" Title="You found Waldo!" align="center">
 
-**Catch me in your terminal and know me more by hitting the command `npx sunrit`!**
-
 ### Let's know about me more!
 
 Hey there! I am Yenon, A 17 y/o developer. Obsessed with Maths, Tech, and Science. Currently I'm Learning ASM, Machine learning 
@@ -30,15 +28,6 @@ chatting with my friends! 😁
 ### 🎧 Spotify Playing
 
 [<img src="https://spotify-activity.warriordefenderz.vercel.app/api/spotify" alt="Yenon's Spotify Playing" width="400" />](https://open.spotify.com/user/qy9jhr85so9g8pr6zz7aicc6x)
-
-### 🔗 Connect with me:
-
-<p align="center">
-    
-[<img align="left" alt="Yenon" src="https://img.shields.io/badge/Website-02ccf7?style=for-the-badge&logo=https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg&logoColor=white" />][website]
-[<img align="left" alt="Yenon" src="https://img.shields.io/badge/Octo%20Profile-00FFFF?style=for-the-badge&logo=https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg&logoColor=white" />][octoprofile]
-
-</p>
 
 <br />
 
