@@ -53,7 +53,7 @@ chatting with my friends! 😁
 <details>
   <summary>📊 My Github Stats</summary>
  
-  <p><img src="https://github-readme-stats.warriordefenderz.vercel.app/api?username=enum0x359&show_icons=true&include_all_commits=true&line_height=25" alt="enum0x359" /></p>
+  <p><img src="https://github-readme-stats.warriordefenderz.vercel.app/api?username=enum0x539&show_icons=true&include_all_commits=true&line_height=25" alt="enum0x539" /></p>
   
   <p align="left"> <a href="https://github.com/Enum0x539"><img src="https://github-profile-trophy.vercel.app/?username=Enum0x539" alt="Enum0x539" /></a> </p>
   
