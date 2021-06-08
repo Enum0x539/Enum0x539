@@ -9,17 +9,6 @@
 
 > Remember, Life's all about Ups and Downs, Wins and Losses. **Never be disappointed, Keep moving forward** :)
 
-<p align="center"><br>
-  <a href="https://github.com/Enum0x539">
-    <img src="https://discord.c99.nl/widget/theme-4/825086897230839879.png"/>
-     </a>
-</p>
-
-<p align="center"> 
-  Visits counter :<br>
-  <img src="https://profile-counter.glitch.me/Enum0x539/count.svg" />
-</p>
-
 <img src= "https://octodex.github.com/images/waldocat.png" width="160px" Title="You found Waldo!" align="center">
 
 ### Let's know about me more!
@@ -39,6 +28,17 @@ chatting with my friends! 😁
 ### 🎧 Spotify Playing
 
 [<img src="https://spotify-activity.warriordefenderz.vercel.app/api/spotify" alt="Yenon's Spotify Playing" width="400" />](https://open.spotify.com/user/qy9jhr85so9g8pr6zz7aicc6x)
+
+<p align="center"><br>
+  <a href="https://github.com/Enum0x539">
+    <img src="https://discord.c99.nl/widget/theme-4/825086897230839879.png"/>
+     </a>
+</p>
+
+<p align="center"> 
+  Visits counter :<br>
+  <img src="https://profile-counter.glitch.me/Enum0x539/count.svg" />
+</p>
 
 <br />
 
