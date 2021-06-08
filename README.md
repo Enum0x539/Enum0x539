@@ -41,7 +41,7 @@ chatting with my friends! 😁
 </p>
 
 <br />
-## 
+## <br>
 ## 🔥 Streak stats
 
 <p align="center">
