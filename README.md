@@ -41,12 +41,7 @@ chatting with my friends! 😁
 </p>
 
 <br />
-## <br>
 ## 🔥 Streak stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enum0x539&theme=algolia" alt="enum0x539" />
-</p>
 
 ### ⚡ Some Good Stats
 
