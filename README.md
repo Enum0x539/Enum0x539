@@ -35,12 +35,17 @@ chatting with my friends! 😁
 
 ---  
 
+<br />
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enum0x539&theme=algolia" alt="enum0x539" />
+</p>
+
 <p align="center"> 
   Visits counter :<br>
   <img src="https://profile-counter.glitch.me/Enum0x539/count.svg" />
 </p>
 
-<br />
 ## 🔥 Streak stats
 
 ### ⚡ Some Good Stats
