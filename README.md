@@ -9,17 +9,9 @@
 
 > Remember, Life's all about Ups and Downs, Wins and Losses. **Never be disappointed, Keep moving forward** :)
 
-<p align='center'>
-  <b>Hi 👋, I'm Kaneki</b><br>
-  <a href="https://discord.gg/bdUM6SbEpJ">Discord</a> |
-  <a href="https://www.youtube.com/channel/UC-XII5SSqbMOF1UX3N0Gl8g">YouTube</a> |
-  <a href="https://twitter.com/Kaneki_Web">Twitter</a> |
-  <a href="https://codepen.io/KanekiWeb">Code Pen</a>
-</p>
-
 <p align="center"><br>
-  <a href="https://github.com/KanekiX2">
-    <img src="https://discord.c99.nl/widget/theme-4/789071575420370975.png"/>
+  <a href="https://github.com/Enum0x539">
+    <img src="https://discord.c99.nl/widget/theme-4/825086897230839879.png"/>
      </a>
 </p>
 
