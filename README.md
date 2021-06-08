@@ -33,13 +33,15 @@ chatting with my friends! 😁
      </a>
 </p>
 
+---  
+
 <p align="center"> 
   Visits counter :<br>
   <img src="https://profile-counter.glitch.me/Enum0x539/count.svg" />
 </p>
 
 <br />
-
+## 
 ## 🔥 Streak stats
 
 <p align="center">
