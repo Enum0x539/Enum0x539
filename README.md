@@ -29,7 +29,7 @@ chatting with my friends! 😁
 
 <p align="center"><br>
   <a href="https://github.com/Enum0x539">
-    <img src="https://discord.c99.nl/widget/theme-2/825086897230839879.png"/>
+    <img src="https://discord.c99.nl/widget/theme-3/825086897230839879.png"/>
      </a>
 </p>
 
