@@ -25,6 +25,8 @@ useful in certain domains, and also create boilerplates and more for speeding up
 Moreover, I'm a social maniac, active on discord. Probably Interacting with the dev community, or Building something interesting, or 
 chatting with my friends! 😁
 
+---  
+
 <p align="center"><br>
   <a href="https://github.com/Enum0x539">
     <img src="https://discord.c99.nl/widget/theme-4/825086897230839879.png"/>
