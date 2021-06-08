@@ -25,10 +25,6 @@ useful in certain domains, and also create boilerplates and more for speeding up
 Moreover, I'm a social maniac, active on discord. Probably Interacting with the dev community, or Building something interesting, or 
 chatting with my friends! 😁
 
-### 🎧 Spotify Playing
-
-[<img src="https://spotify-activity.warriordefenderz.vercel.app/api/spotify" alt="Yenon's Spotify Playing" width="400" />](https://open.spotify.com/user/qy9jhr85so9g8pr6zz7aicc6x)
-
 <p align="center"><br>
   <a href="https://github.com/Enum0x539">
     <img src="https://discord.c99.nl/widget/theme-4/825086897230839879.png"/>
