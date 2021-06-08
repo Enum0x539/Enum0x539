@@ -16,7 +16,7 @@
 </p>
 
 <p align="center"> 
-  Compteur de visites :<br>
+  Visits counter :<br>
   <img src="https://profile-counter.glitch.me/Enum0x539/count.svg" />
 </p>
 
