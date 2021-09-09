@@ -14,7 +14,7 @@
 ### Let's know about me more!
 
 Hey there! I am Yenon, A 17 y/o developer. Obsessed with Maths, Tech, and Science. Currently I'm Learning ASM, Machine learning 
-and Cyber Security! I'm interested in learning Front-end development, Rust language, and more. I love not only to 
+and Cyber Security! I'm interested in learning Front-end development, C#, and more. I love not only to 
 code, but also building, learning and exploring new things, crossing things off my bucket list, and several hobbies, and goals that I want to fulfil. 
 Trying to learn, build and share something new every day, and Becoming better every day.✌️
 
