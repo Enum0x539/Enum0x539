@@ -82,7 +82,7 @@ chatting with my friends! 😁
   <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
-**🐱 My Github Data, I'm to lazy to update it every time 😆**
+**🐱 My Github Data, I'm too lazy for updating it every time 😆**
 > 🏆 0 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
