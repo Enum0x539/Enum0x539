@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
 
-<h3 align="center">An enthusiastic Machine learning dev, A Front-end developer and Cyber Security practitioner from Israel</h3>
+<h3 align="center">An enthusiastic Machine learning dev, A Back-end developer and Cyber Security practitioner from Israel</h3>
 
 > Remember, Life's all about Ups and Downs, Wins and Losses. **Never be disappointed, Keep moving forward** :)
 
