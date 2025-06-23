@@ -15,8 +15,19 @@
 
 ---
 
-### 🙅‍♂️ Things I Avoid:
+### 🎯 Unreasonable Goals
+ 
+- ⚙️ Contribute to a project that has no UI
+- 🚫 Never use the same bug twice
+- 🤖 Resist the urge to "AI-power" everything. Not every script needs a chatbot, Karen.
+- 🦄 Build something totally useless that somehow goes viral
+- 🧩 Reverse-engineer my own code after 3 months of forgetting what it does
+- 🧟‍♀️ Use Windows API “undocumented” tricks that Microsoft forgot to tell you about 
 
-- 🚫 JavaScript frameworks  
-- 🤖 Anything with "AI-powered" in the title  
-- 📝 Writing documentation  
+## 🤖 Philosophy
+
+- If it compiles, ship it  
+- If it doesn’t compile, blame the compiler  
+- If it works but you don’t know why… leave it  
+- Comments are just documentation that went rogue  
+- Documentation is a myth invented by project managers
